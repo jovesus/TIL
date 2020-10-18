@@ -5,6 +5,7 @@ A collection of Today I learn
 
 ### Packaging Python Projects
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
+- [An Overview of Packaging for Python](https://packaging.python.org/overview/)
 
 ### Command-line Parsing
 - [Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
