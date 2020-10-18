@@ -6,6 +6,7 @@ A collection of Today I learn
 ### Packaging Python Projects
 - [Packaging Python Projects](https://packaging.python.org/tutorials/packaging-projects/)
 - [An Overview of Packaging for Python](https://packaging.python.org/overview/)
+- [Dead Simple Python: Project Structure and Imports](https://dev.to/codemouse92/dead-simple-python-project-structure-and-imports-38c6)
 
 ### Command-line Parsing
 - [Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click](https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
