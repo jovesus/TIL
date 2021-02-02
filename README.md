@@ -1,5 +1,5 @@
 # TIL
-A collection of Today I learn
+A collection of Today I Learn
 
 ## Python
 
@@ -15,3 +15,19 @@ A collection of Today I learn
 ## Audio Engineering
 ### General Satandard
 - [Choosing Bit Rates for Podcasts](https://www.richardfarrar.com/choosing-bit-rates-for-podcasts/#:~:text=128%20kbps%20%E2%80%93%20Typical%20for%20musical,used%20to%20reduce%20download%20times)
+
+## Bioinformatic Core Facility
+
+### Definition
+- [What is bioinformatic core facility](https://www.iscb.org/professions-collaborations/professions-corefacilities)
+
+### Tools for Building Pipelines
+- [ClusterFlow](http://clusterflow.io/)
+- [NextFlow](https://github.com/nextflow-io/nextflow)
+- [Galaxy](https://usegalaxy.org/)
+
+### Data Management
+- [Labrador Dataset Browser](https://github.com/ewels/Labrador)
+
+## HPC (High Performance Computing)
+- [module command](https://hpc.unt.edu/env-module)
