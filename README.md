@@ -32,6 +32,10 @@ A collection of Today I Learn
 ## HPC (High Performance Computing)
 - [module command](https://hpc.unt.edu/env-module)
 
+## Academics
+### Publication
+- [Predatory journals: no definition, no defence](https://www.nature.com/articles/d41586-019-03759-y)
+
 ## Audio Engineering
 ### General Satandard
 - [Choosing Bit Rates for Podcasts](https://www.richardfarrar.com/choosing-bit-rates-for-podcasts/#:~:text=128%20kbps%20%E2%80%93%20Typical%20for%20musical,used%20to%20reduce%20download%20times)
